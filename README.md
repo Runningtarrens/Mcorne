@@ -9,6 +9,7 @@ Content:
 * The case
 * Bill of Materials
 * How to print
+* Files
 * Tangented
 * More Pics
 * Legend
@@ -85,6 +86,15 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 ![MagneticCorne10](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%203.JPG)
 
+
+# Files
+
+* corne split_top_rechts.stl
+* corne split_bot_closed_rechts.stl
+* corne split_top_rechts.3mf
+* corne split_fase_bot_closed_rechts.3mf
+
+The .stl are to slice yourself. There are also .3mf files which are already dialed in and provide the exact settings i use.
 
 
 # Tangented
