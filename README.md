@@ -89,15 +89,51 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 # Tangented
 
+* Magnetic tenting legs - soon
+* Keycaps - soon
+
+
 
 
 # More Pics
 
+![MagneticCornegif1](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095457_1.gif)
+![MagneticCornegif2](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095457_2.gif)
 
 
+#### Bottom
+
+![MagneticCorne11](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124627.jpg)
 
 
+#### Top underside
 
+![MagneticCorne12](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124807.jpg)
+
+
+#### Top upside
+
+![MagneticCorne13](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124826.jpg)
+
+
+#### USB Port
+
+![MagneticCorne14](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124300.jpg)
+
+
+#### TRS Port
+
+![MagneticCorne15](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124229.jpg)
+
+
+#### Detail view 
+
+![MagneticCorne16](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124309.jpg)
+
+
+#### Detail view close up
+
+![MagneticCorne17](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124406.jpg)
 
 
 # Legend
