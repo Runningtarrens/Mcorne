@@ -38,9 +38,9 @@ To print this case youll need:
 Youll probably need to scale the files up to 1000%, because my CAD programm always exports in cm instead of mm, just for your information.
 I always print in PLA, but you can use any filament for the case. 
 
-### Slicing
+## Slicing
 
-#### Settings for the Print:
+### Settings for the Print:
 
 * 0.10 layer hight
 * 3 Parimeters
@@ -49,14 +49,41 @@ I always print in PLA, but you can use any filament for the case.
 * 205°C Filament temp
 * 60°C Bed Temp
 
-#### Getting the magnets in
+### Getting the magnets in
 
-To get the magnets in, the M600 command is used. The printer makes a pause and removes the filament from the extruder. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to eack other and dont repell each other.
+To get the magnets in, the M600 command is used. The printer makes a pause and removes the filament from the extruder. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to eack other and dont repell each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
 
+### Top
 The print is paused in on the top half after the 42 layer or 4.2mm hight.
+![MagneticCorne5](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/Bild_2021-04-12_140316.png)
+
+
+#### Position of the Pockets for the Magnets
+![MagneticCorne6](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/Bild_2021-04-12_140616.png)
 
 
 
+### Bottom
+
+The Bottom part is a bit more complex. It has, if you choose magnetig tenting and a transparent basis, 3 pauses. 2 to get the magnets in and 1 to just change the filament. If you dont want magnetic tenting and dont want another colour for the top part, youll need only one pause for the magnets.
+
+#### Overview of the Part.
+
+![MagneticCorne7](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bottom%20slice.JPG)
+
+#### First pause for the round magnets needet for the tenting
+
+![MagneticCorne8](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%201.JPG)
+
+
+#### Second pause to change the filament
+
+![MagneticCorne9](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%202.JPG)
+
+
+#### Third pause for the magnets to close the case
+
+![MagneticCorne10](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%203.JPG)
 
 
 
