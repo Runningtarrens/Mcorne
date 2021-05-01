@@ -97,7 +97,7 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 Version v2 is the latest for the top part. I made some corrections so the inner keys ( T and Z dont scratch on the case).
 I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 
-No changes mada on the bottom half, just use the old ones.
+No changes made on the bottom half, just use the old ones.
 
 
 ## old versions
