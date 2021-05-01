@@ -89,6 +89,20 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 # Files
 
+## latest files
+
+* corne split_top_rechts_v2.3mf
+* corne split_top_links_v2.3mf
+* corne split_top_rechts_v2.stl
+
+Version v2 is the latest for the top part. I made some corrections so the inner keys ( T and Z dont scratch on the case).
+I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 
+No changes mada on the bottom half, just use the old ones.
+
+
+## old versions
+
+
 * corne split_top_rechts.stl
 * corne split_bot_closed_rechts.stl
 * corne split_top_rechts.3mf
