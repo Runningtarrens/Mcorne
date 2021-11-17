@@ -71,7 +71,7 @@ The print is paused in on the top half after the 42 layer or 4.2mm hight.
 
 ### Bottom
 
-The Bottom part is a bit more complex. It has, if you choose magnetig tenting and a transparent basis, 3 pauses. 2 to get the magnets in and 1 to just change the filament. If you dont want magnetic tenting and dont want another colour for the top part, youll need only one pause for the magnets.
+The Bottom part is a bit more complex. It has, if you choose magnetig tenting and a transparent basis, 3 pauses. 2 to get the magnets in and 1 to just change the filament. If you dont want magnetic tenting and dont want another colour for the top part, youll only need one pause for the magnets.
 
 #### Overview of the Part.
 
