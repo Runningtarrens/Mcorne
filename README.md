@@ -22,7 +22,9 @@ Content:
 
 # Preface
 
-If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. With the MagneticCorne you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. The Case supports magnetic tenting legs and provides tenting holes for other tenting methods.
+If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. With the Mcorne you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. The Case supports magnetic tenting legs and provides tenting holes for other tenting methods.
+
+Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: https://discord.gg/TRQFN7fyU5
 
 
 # The Case
@@ -36,13 +38,11 @@ If you build a lot of keyboards or repair them, you know the hassle of having to
 To print this case youll need:
 * about 120 gramms of Filament
 * 16 Neodymium Magnets (14mm x 4mm x 2,5mm)
-*  (Optional) 4 Neodymiom Magnets round (10mm x 1mm)
+*  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
 
 # How to print
  
- 
-Youll probably need to scale the files up to 1000%, because my CAD programm always exports in cm instead of mm, just for your information.
-I always print in PLA, but you can use any filament for the case. 
+ I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems wiht warping or cracked prints because of that.
 
 ## Slicing
 
@@ -57,10 +57,10 @@ I always print in PLA, but you can use any filament for the case.
 
 ### Getting the magnets in
 
-To get the magnets in, the M600 command is used. The printer makes a pause and removes the filament from the extruder. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to eack other and dont repell each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
+To get the magnets in, the M600 command is used. The printer makes a pause and removes the filament from the extruder. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
 
 ### Top
-The print is paused in on the top half after the 42 layer or 4.2mm hight.
+The print is paused on the top half after the 42 layer or 4.2mm hight.
 ![MagneticCorne5](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/Bild_2021-04-12_140316.png)
 
 
@@ -77,12 +77,12 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 ![MagneticCorne7](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bottom%20slice.JPG)
 
-#### First pause for the round magnets needet for the tenting
+#### First pause for the round magnets needed for the tenting
 
 ![MagneticCorne8](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%201.JPG)
 
 
-#### Second pause to change the filament
+#### Second pause to change the filament (different colour)
 
 ![MagneticCorne9](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%202.JPG)
 
