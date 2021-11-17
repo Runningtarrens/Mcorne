@@ -96,22 +96,13 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 ## latest files
 
-* corne split_top_rechts_v2.3mf
-* corne split_top_links_v2.3mf
-* corne split_top_rechts_v2.stl
+* corne split_bot_rechts_v4.stl
+* corne split_top_right_reinforced_tentless_v4.stl
+* corne split_top_right_reinforced_v4.stl
 
-Version v2 is the latest for the top part. I made some corrections so the inner keys ( T and Z dont scratch on the case).
+Version v4 is the latest for the case. I made some corrections so the inner keys ( T and Z dont scratch on the case).
 I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 
-No changes made on the bottom half, just use the old ones.
 
-
-## old versions
-
-
-* corne split_top_rechts.stl
-* corne split_bot_closed_rechts.stl
-* corne split_top_rechts.3mf
-* corne split_fase_bot_closed_rechts.3mf
 
 The .stl are to slice yourself. There are also .3mf files which are already dialed in and provide the exact settings i use.
 
@@ -119,6 +110,7 @@ The .stl are to slice yourself. There are also .3mf files which are already dial
 # Tangented
 
 * Magnetic tenting legs - soon
+* Mcorne Travel Case 
 * Keycaps - soon
 
 
