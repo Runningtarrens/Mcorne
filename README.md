@@ -1,7 +1,12 @@
-# MagneticCorne
+# Mcorne
+![28816_Mcorne_Banner](https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg)
+
+
 This is the Repository for a Magnetic Case for the Corne keyboard.
 
-![MagneticCorne](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124343.jpg)
+
+![20211104_104911](https://user-images.githubusercontent.com/65970993/142194100-e0e1e61c-e03f-4065-9170-004b7698ddeb.jpg)
+
 
 Content:
 
@@ -163,3 +168,4 @@ The .stl are to slice yourself. There are also .3mf files which are already dial
 # Legend
 
 * MCU = Microcontroller unit
+
