@@ -42,7 +42,7 @@ To print this case youll need:
 
 # How to print
  
- I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems wiht warping or cracked prints because of that.
+ I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.
 
 ## Slicing
 
