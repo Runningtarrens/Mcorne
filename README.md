@@ -92,6 +92,13 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 ![MagneticCorne10](https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%203.JPG)
 
 
+### Tenting Legs
+
+Print 4 of them upright. But you need a prim to have enough surface that sticks to the build plate or it will get loose while printing.
+
+
+
+
 # Files
 
 ## latest files
@@ -99,18 +106,20 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 * corne split_bot_rechts_v4.stl
 * corne split_top_right_reinforced_tentless_v4.stl
 * corne split_top_right_reinforced_v4.stl
+* magnet_tenting_30mm.stl
 
 Version v4 is the latest for the case. I made some corrections so the inner keys ( T and Z dont scratch on the case).
 I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. 
 
 
-The .stl are to slice yourself. There are also .3mf files which are already dialed in and provide the exact settings i use.
+The .stl are to slice yourself. (There are also .3mf files which are already dialed in and provide the exact settings i use.).
+The .3mf are in rework for now.
 
 
 # Tangented
 
-* Magnetic tenting legs - soon
-* Mcorne Travel Case 
+* Magnetic tenting legs - Added to the files directory
+* Mcorne Travel Case - Added to the Travel Case directory
 * Keycaps - soon
 
 
