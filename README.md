@@ -94,6 +94,8 @@ The Bottom part is a bit more complex. It has, if you choose magnetig tenting an
 
 ### Tenting Legs
 
+![MagneticTentingLegs](https://github.com/Runningtarrens/Mcorne/blob/main/pics/tenting%20legs.JPG)
+
 Print 4 of them upright. But you need a prim to have enough surface that sticks to the build plate or it will get loose while printing.
 
 
