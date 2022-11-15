@@ -57,7 +57,7 @@ To print this case youll need:
 
 ### Getting the magnets in
 
-To get the magnets in, the M600 command is used. The printer makes a pause and removes the filament from the extruder. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
+To get the magnets in, the M600 command is used. The printer makes a pause. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.
 
 ### Top
 The print is paused on the top half after the 42 layer or 4.2mm hight.
