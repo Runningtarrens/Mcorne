@@ -18,6 +18,7 @@ Content:
 * Tangented
 * More Pics
 * Legend
+* License
 
 
 # Preface
@@ -171,4 +172,8 @@ The .3mf are in rework for now.
 # Legend
 
 * MCU = Microcontroller unit
+
+# License
+
+Print and modify all you want but please dont sell my desgin (digital or printed).
 
