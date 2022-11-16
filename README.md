@@ -175,5 +175,5 @@ The .3mf are in rework for now.
 
 # License
 
-Print and modify all you want but please dont sell my desgin (digital or printed).
+Print and modify all you want, but please dont sell my desgin (digital or printed).
 
