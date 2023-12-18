@@ -39,7 +39,13 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 To print this case youll need:
 * about 120 gramms of Filament
 * 16 Neodymium Magnets (14mm x 4mm x 2,5mm)
-*  (Optional) 4 Neodymium Magnets round (10mm x 1mm)
+* (Optional) 4 Neodymium Magnets round (10mm x 1mm)
+
+Getting the right Magnets can be Hard. Hier are a list of sources i could find or people provided me:
+
+* Europe:
+* USA: [Ebay.com](https://www.ebay.com/itm/255362762463?hash=item3b74ce86df:g:I6YAAOSwLGxj5~dE&amdata=enc%3AAQAIAAAA4Dw5q5Iaz04OmhxHfPwu8k07GHBo7GwbV78mkknv9z1LJtW8EaM5w4%2BSH7qRupMZynmEo%2FcYvYoQUVCkhMq%2Fv2LbzTyd7T9DZ8iL7wkGtd%2Bo6yrR314zF5pcIP2%2BBKjTWxMPVYLN3%2BubwSLDq2Galkm0FqFl%2FZXGUN2%2BTN2dHdycdtO09tp%2Fo4Vs4yeQB6syOIESobyuEBhoNur8iQ5FjgA6CRerepnlfRRZ3P8fu9Vq9Ak06Z9%2F%2FHslnbwE5xtVcj2HeqcWrp0wzFRXSeRc3FeCLpfYIxDQMqS3Mt2r6bG5%7Ctkp%3ABk9SR9qimoqPYw)
+
 
 # How to print
  
