@@ -2,6 +2,10 @@ site_name: Mcorne documentation
 theme:
   name: material
   logo: Mcorne_02_pure.png
+  palette:
+   primary: custom
+   accent: indigo
+   scheme: slate
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
