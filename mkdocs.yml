@@ -1,7 +1,7 @@
 site_name: Mcorne documentation
 theme:
   name: material
-  logo: 28816_Mcorne_RB-02.png
+  logo: Mcorne_02_pure.png
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
