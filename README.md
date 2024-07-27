@@ -10,6 +10,7 @@ This is the Repository for a Magnetic Case for the Corne keyboard.
 
 Content:
 
+
 * Preface
 * The case
 * Bill of Materials
