@@ -6,6 +6,8 @@ theme:
    primary: custom
    accent: indigo
    scheme: slate
+extra_css:
+  - stylesheets/extra.css
 markdown_extensions:
   - pymdownx.critic
   - pymdownx.caret
