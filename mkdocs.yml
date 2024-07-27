@@ -4,7 +4,7 @@ theme:
   logo: Mcorne_02_pure.png
   palette:
    primary: custom
-   accent: indigo
+   accent: deep purple
    scheme: slate
 extra_css:
   - stylesheets/extra.css
