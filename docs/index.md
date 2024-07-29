@@ -2,7 +2,16 @@
 
 ![28816_Mcorne_Banner](https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is the Page for the Magnetic Case family for the Corne keyboard. There are different versions, so its easy to lose track of all the different versions or even to find the right one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories.
+
+
+## Preface
+
+If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. The Mcorne doesnt need to be unscrewed to access the PCB or any screw or standoff to use this case. The Mcorne supports magnetic tenting legs and provides tenting holes for other tenting methods.
+
+Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: [Discord](https://discord.gg/TRQFN7fyU5)
+
+
 
 ## Commands
 
