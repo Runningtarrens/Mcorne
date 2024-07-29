@@ -2,9 +2,9 @@ site_name: Mcorne documentation
 theme:
   name: material
   logo: Mcorne_02_pure.png
-    icon:
-    admonition:
-      <type>: octicons/alert-16
+  icon:
+   admonition:
+    <type>: octicons/alert-16
   palette:
    primary: black
    accent: deep purple
