@@ -3,7 +3,7 @@ theme:
   name: material
   logo: Mcorne_02_pure.png
   palette:
-   primary: custom
+   primary: black
    accent: deep purple
    scheme: slate
 extra_css:
