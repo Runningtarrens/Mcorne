@@ -1,5 +1,7 @@
 # Welcome to Mcorne
 
+![28816_Mcorne_Banner](https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg)
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
@@ -17,14 +19,18 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 
-## Mcorne legacy
-![28816_Mcorne_Banner](https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg)
+
+
 
 
 This is the Repository for a Magnetic Case for the Corne keyboard.
 
 
 ![20211104_104911](https://user-images.githubusercontent.com/65970993/142194100-e0e1e61c-e03f-4065-9170-004b7698ddeb.jpg)
+
+
+This is the Repository for a Magnetic Case family for the Corne keyboard. There are 5 different version, so its easy to lose track of all the different versions or even to find the rigth one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories.
+
 
 
 Content:
