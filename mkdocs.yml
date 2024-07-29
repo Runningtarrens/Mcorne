@@ -6,6 +6,8 @@ theme:
    primary: black
    accent: deep purple
    scheme: slate
+   features:
+    - navigation.tabs
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
