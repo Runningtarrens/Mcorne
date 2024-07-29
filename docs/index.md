@@ -13,7 +13,6 @@ Feel free to join the Discord Server, if you have questions about the case or ju
 
 
 !!! example "Disclaimer"
-
 To be able to print these cases you need a FDM printer. SLS or Resin printers wont work. Also your Printer firmware needs to support the pause feature to allow you to place the magnets in the pockets of the case. Most slicers and firewares use the M600 command.
 
 
