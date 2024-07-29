@@ -1,0 +1,536 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.30">
+    
+    
+      
+        <title>Mcorne documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+    
+  
+  
+  <style>:root{--md-admonition-icon--example:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"/></svg>');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#welcome-to-mcorne" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Mcorne documentation" class="md-header__button md-logo" aria-label="Mcorne documentation" data-md-component="logo">
+      
+  <img src="Mcorne_02_pure.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Mcorne documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Welcome to Mcorne
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Mcorne documentation" class="md-nav__button md-logo" aria-label="Mcorne documentation" data-md-component="logo">
+      
+  <img src="Mcorne_02_pure.png" alt="logo">
+
+    </a>
+    Mcorne documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Welcome to Mcorne
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Welcome to Mcorne
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preface" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preface
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Commands
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project layout
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preface" class="md-nav__link">
+    <span class="md-ellipsis">
+      Preface
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#commands" class="md-nav__link">
+    <span class="md-ellipsis">
+      Commands
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-layout" class="md-nav__link">
+    <span class="md-ellipsis">
+      Project layout
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="welcome-to-mcorne">Welcome to Mcorne</h1>
+<p><img alt="28816_Mcorne_Banner" src="https://user-images.githubusercontent.com/65970993/142192291-f98b4d5c-05fb-46df-812c-ea15619faf7e.jpg" /></p>
+<p>This is the Page for the Magnetic Case family for the Corne keyboard. There are different versions, so its easy to lose track of all the different versions or even to find the right one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories.</p>
+<h2 id="preface">Preface</h2>
+<p>If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. The Mcorne doesnt need to be unscrewed to access the PCB or any screw or standoff to use this case. The Mcorne supports magnetic tenting legs and provides tenting holes for other tenting methods.</p>
+<p>Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: <a href="https://discord.gg/TRQFN7fyU5">Discord</a></p>
+<div class="admonition example">
+<p class="admonition-title">Disclaimer</p>
+<p>To be able to print these cases you need a FDM printer. SLS or Resin printers wont work. Also your Printer firmware needs to support the pause feature to allow you to place the magnets in the pockets of the case. Most slicers and firewares use the M600 command.</p>
+</div>
+<h2 id="commands">Commands</h2>
+<ul>
+<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
+<li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
+<li><code>mkdocs build</code> - Build the documentation site.</li>
+<li><code>mkdocs -h</code> - Print help message and exit.</li>
+</ul>
+<h2 id="project-layout">Project layout</h2>
+<pre><code>mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+</code></pre>
+<p>This is the Repository for a Magnetic Case for the Corne keyboard.</p>
+<p><img alt="20211104_104911" src="https://user-images.githubusercontent.com/65970993/142194100-e0e1e61c-e03f-4065-9170-004b7698ddeb.jpg" /></p>
+<p>This is the Repository for a Magnetic Case family for the Corne keyboard. There are 5 different version, so its easy to lose track of all the different versions or even to find the rigth one for your Corne and intented use case. So here is a overview with a quick summary of the features of the different cases and links to the different repositories.</p>
+<p>Content:</p>
+<ul>
+<li>Preface</li>
+<li>The case</li>
+<li>Bill of Materials</li>
+<li>How to print</li>
+<li>Files</li>
+<li>Tangented</li>
+<li>More Pics</li>
+<li>Legend</li>
+<li>License</li>
+</ul>
+<h1 id="preface_1">Preface</h1>
+<p>Rework of the documentation on a special page: https://runningtarrens.github.io/Mcorne/</p>
+<p>If you build a lot of keyboards or repair them, you know the hassle of having to open the cases, screw/ unscrew and taking apart the whole thing everytime you need to reflow a solder point, an led or maybe even just reset the MCU. Also for any corne build youll need to have about 20 screws and 5 standoffs per half to just keep the halfs together. With the Mcorne you dont need to unscrew anything to access the PCB or any screw or standoff to use this case. The Case supports magnetic tenting legs and provides tenting holes for other tenting methods.</p>
+<p>Feel free to join the Discord Server, if you have questions about the case or just want to have a chat: https://discord.gg/TRQFN7fyU5</p>
+<h1 id="the-case">The Case</h1>
+<p><img alt="MagneticCorne2" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124131.jpg" />
+<img alt="MagneticCorne3" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095158.jpg" />
+<img alt="MagneticCorne4" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095136.jpg" /></p>
+<h1 id="bill-of-materials">Bill of Materials</h1>
+<p>To print this case youll need:
+* about 120 gramms of Filament
+* 16 Neodymium Magnets (14mm x 4mm x 2,5mm)
+* (Optional) 4 Neodymium Magnets round (10mm x 1mm)</p>
+<p>Getting the right Magnets can be Hard. Hier are a list of sources i could find or people provided me:</p>
+<ul>
+<li>Europe:</li>
+<li>USA: <a href="https://www.ebay.com/itm/255362762463?hash=item3b74ce86df:g:I6YAAOSwLGxj5~dE&amp;amdata=enc%3AAQAIAAAA4Dw5q5Iaz04OmhxHfPwu8k07GHBo7GwbV78mkknv9z1LJtW8EaM5w4%2BSH7qRupMZynmEo%2FcYvYoQUVCkhMq%2Fv2LbzTyd7T9DZ8iL7wkGtd%2Bo6yrR314zF5pcIP2%2BBKjTWxMPVYLN3%2BubwSLDq2Galkm0FqFl%2FZXGUN2%2BTN2dHdycdtO09tp%2Fo4Vs4yeQB6syOIESobyuEBhoNur8iQ5FjgA6CRerepnlfRRZ3P8fu9Vq9Ak06Z9%2F%2FHslnbwE5xtVcj2HeqcWrp0wzFRXSeRc3FeCLpfYIxDQMqS3Mt2r6bG5%7Ctkp%3ABk9SR9qimoqPYw">Ebay.com</a></li>
+</ul>
+<h1 id="how-to-print">How to print</h1>
+<p>I always print in PLA, but you can use any filament for the case. ABS/ASA and Filament that require an enclosure are difficult to work with, because if you want to put the magnets in, you have to open the enclosure and might be having problems with warping or cracked prints because of that.</p>
+<h2 id="slicing">Slicing</h2>
+<h3 id="settings-for-the-print">Settings for the Print:</h3>
+<ul>
+<li>0.10 layer hight</li>
+<li>3 Parimeters</li>
+<li>3 Top and Bottom layers</li>
+<li>15% Infill</li>
+<li>205°C Filament temp</li>
+<li>60°C Bed Temp</li>
+</ul>
+<h3 id="getting-the-magnets-in">Getting the magnets in</h3>
+<p>To get the magnets in, the M600 command is used. The printer makes a pause. While the print is pause, the magnets can be put into the pockets. Its important that you check and double check the polarity of the magnets, so that the halfs stick to each other and dont repel each other. The holes are tight but have a bit of tolerance, it can be a bit of work getting the magnets in, depending on how accurate your printer is.</p>
+<h3 id="top">Top</h3>
+<p>The print is paused on the top half after the 42 layer or 4.2mm hight.
+<img alt="MagneticCorne5" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/Bild_2021-04-12_140316.png" /></p>
+<h4 id="position-of-the-pockets-for-the-magnets">Position of the Pockets for the Magnets</h4>
+<p><img alt="MagneticCorne6" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/Bild_2021-04-12_140616.png" /></p>
+<h3 id="bottom">Bottom</h3>
+<p>The Bottom part is a bit more complex. It has, if you choose magnetig tenting and a transparent basis, 3 pauses. 2 to get the magnets in and 1 to just change the filament. If you dont want magnetic tenting and dont want another colour for the top part, youll only need one pause for the magnets.</p>
+<h4 id="overview-of-the-part">Overview of the Part.</h4>
+<p><img alt="MagneticCorne7" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bottom%20slice.JPG" /></p>
+<h4 id="first-pause-for-the-round-magnets-needed-for-the-tenting">First pause for the round magnets needed for the tenting</h4>
+<p><img alt="MagneticCorne8" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%201.JPG" /></p>
+<h4 id="second-pause-to-change-the-filament-different-colour">Second pause to change the filament (different colour)</h4>
+<p><img alt="MagneticCorne9" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%202.JPG" /></p>
+<h4 id="third-pause-for-the-magnets-to-close-the-case">Third pause for the magnets to close the case</h4>
+<p><img alt="MagneticCorne10" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/bot%20slice%203.JPG" /></p>
+<h3 id="tenting-legs">Tenting Legs</h3>
+<p><img alt="MagneticTentingLegs" src="https://github.com/Runningtarrens/Mcorne/blob/main/pics/tenting%20legs.JPG" /></p>
+<p>Print 4 of them upright. But you need a prim to have enough surface that sticks to the build plate or it will get loose while printing.</p>
+<h1 id="files">Files</h1>
+<h2 id="latest-files">latest files</h2>
+<ul>
+<li>corne split_bot_rechts_v4.stl</li>
+<li>corne split_top_right_reinforced_tentless_v4.stl</li>
+<li>corne split_top_right_reinforced_v4.stl</li>
+<li>magnet_tenting_30mm.stl</li>
+</ul>
+<p>Version v4 is the latest for the case. I made some corrections so the inner keys ( T and Z dont scratch on the case).
+I only uploaded the right side as .stl but you can just mirror it in your slicer software to get the left version of it. </p>
+<p>The .stl are to slice yourself. (There are also .3mf files which are already dialed in and provide the exact settings i use.).
+The .3mf are in rework for now.</p>
+<h1 id="tangented">Tangented</h1>
+<ul>
+<li>Magnetic tenting legs - Added to the files directory</li>
+<li>Mcorne Travel Case - Added to the Travel Case directory</li>
+<li>Keycaps - soon</li>
+</ul>
+<h1 id="more-pics">More Pics</h1>
+<p><img alt="MagneticCornegif1" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095457_1.gif" />
+<img alt="MagneticCornegif2" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210213_095457_2.gif" /></p>
+<h4 id="bottom_1">Bottom</h4>
+<p><img alt="MagneticCorne11" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124627.jpg" /></p>
+<h4 id="top-underside">Top underside</h4>
+<p><img alt="MagneticCorne12" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124807.jpg" /></p>
+<h4 id="top-upside">Top upside</h4>
+<p><img alt="MagneticCorne13" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124826.jpg" /></p>
+<h4 id="usb-port">USB Port</h4>
+<p><img alt="MagneticCorne14" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124300.jpg" /></p>
+<h4 id="trs-port">TRS Port</h4>
+<p><img alt="MagneticCorne15" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124229.jpg" /></p>
+<h4 id="detail-view">Detail view</h4>
+<p><img alt="MagneticCorne16" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124309.jpg" /></p>
+<h4 id="detail-view-close-up">Detail view close up</h4>
+<p><img alt="MagneticCorne17" src="https://github.com/Runningtarrens/MagneticCorne/blob/main/pics/20210412_124406.jpg" /></p>
+<h1 id="legend">Legend</h1>
+<ul>
+<li>MCU = Microcontroller unit</li>
+</ul>
+<h1 id="license">License</h1>
+<p>Print and modify all you want, but please dont sell my desgin (digital or printed).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
